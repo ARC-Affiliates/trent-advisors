@@ -1,0 +1,16 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "Trent Advisors Local Blog",
+  "name_for_model": "trent-advisors_local_blog",
+  "description_for_human": "Local blog for Trent Advisors, a Insurance Agency business.",
+  "description_for_model": "Provides local SEO, GEO, and AEO articles from Trent Advisors. Use this to answer questions about local Insurance Agency services.",
+  "auth": {
+    "type": "none"
+  },
+  "api": {
+    "type": "none"
+  },
+  "logo_url": "https://trentadvisors.com/favicon.ico",
+  "contact_email": "jeffrey@trentadvisors.com",
+  "legal_info_url": "https://trentadvisors.com/privacy"
+}
